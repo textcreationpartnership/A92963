@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seven Iesuites condemned. Shewing every particular thing in their examination, and confession, at the sessions House in the Old Bayly in a true and exact relation. Likewise describing what severall and erroneous opinions they doe maintaine against the oath of allegeance, and the kings prerogative. As also, in a briefe demonstration, how they labour to seduce Protestants in England to the Church of Rome, and how they confirme the Popes primacie. The names of the Iesuites: Hamant. Winefall. Cannon. Willford. Ragmore. Coleman. Rivers.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92963</idno><idno type="EEBO-CITATION">99859315</idno>
+  <idno type="VID">111389</idno>
+  <idno type="EEBO-PROQUEST">2240891605</idno>
+  
+            <idno type="STC">Wing S2737</idno>
+            <idno type="STC">Thomason E180_6</idno>
+            <idno type="STC">ESTC R12648</idno>
+            <idno type="PROQUEST">99859315</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859315e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111389)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seven Iesuites condemned. Shewing every particular thing in their examination, and confession, at the sessions House in the Old Bayly in a true and exact relation. Likewise describing what severall and erroneous opinions they doe maintaine against the oath of allegeance, and the kings prerogative. As also, in a briefe demonstration, how they labour to seduce Protestants in England to the Church of Rome, and how they confirme the Popes primacie. The names of the Iesuites: Hamant. Winefall. Cannon. Willford. Ragmore. Coleman. Rivers.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Jesuits --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111389:1"/>
+            <p>SEVEN IESVITES CONDEMNED.</p>
+            <p>SHEWING Every particular thing in their <hi>Examination, and Confession,</hi> at the Sessions House in the Old Bayly in a true and exact Relation.</p>
+            <p>
+               <hi>Likewise Describing</hi> What severall and erroneous Opinions they doe maintaine against the <hi>Oath of Allegeance, and the Kings Prerogative▪</hi>
+            </p>
+            <p>As also, In a briefe Demonstration, how they labour to seduce the Protestants in <hi>England</hi> to the Church of <hi>Rome,</hi> and how they confirme the <hi>Popes Primacie.</hi>
+            </p>
+            <p>The Names of the Iesuites▪
+<list>
+                  <item>
+                     <hi>Hamant.</hi>
+                  </item>
+                  <item>
+                     <hi>Winefall.</hi>
+                  </item>
+                  <item>
+                     <hi>Cannon.</hi>
+                  </item>
+                  <item>
+                     <hi>Willford.</hi>
+                  </item>
+                  <item>
+                     <hi>Ragmore.</hi>
+                  </item>
+                  <item>
+                     <hi>Coleman.</hi>
+                  </item>
+                  <item>
+                     <hi>Rivers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>London, Printed for <hi>I. H.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111389:2"/>
+            <pb facs="tcp:111389:2"/>
+            <head>Seven Jesuits condemned.</head>
+            <p>TIS not unknown to all men, what impious and refarious plots these Jesuits have often times pretended, to the utter subversion of this kingdome, and the perpetuall expulsion of true religion. Their conspiracy was almost growne to a ripe head, and their stratagems were almost come to perfect maturity; but (as it was Gods omnipotent and singular mercy towards us) they were all pre<g ref="char:EOLhyphen"/>vented by his supreme providence. Their plots were very lately kindled in the pernition sparkes of ma<g ref="char:EOLhyphen"/>lice, but (we thank Gods all▪ guiding omnipotency) they never came to a full flame: which notwithstan<g ref="char:EOLhyphen"/>ding they intended to the sudden confusion of the church of <hi>England,</hi> and utter extirpation of christi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n religion. But (judicious Reader) lest I should suspend your expectation too long in this <hi>Poemium,</hi> I will no longer trespasse on your patience in this preli<g ref="char:EOLhyphen"/>minary discourse, but rather come to the point, w<seg rend="sup">ch</seg> I am to speake of, perfect information being given to the Iudges concerning these Iesuits, what abuse and wrong they have induced to this State and king<g ref="char:EOLhyphen"/>dome, they were commanded to be brought before the Bar, and heare their tryall.</p>
+            <p>The first man that was nominated, and appeared before them was one <hi>Hamant,</hi> who after his indi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:111389:3"/> was read, would not stand to his owne defence or any excusation of himselfe, but immediatly told their Honours, that he would refer all to his Accu<g ref="char:EOLhyphen"/>sers, and impose whatsoever could be reflected up<g ref="char:EOLhyphen"/>on him, to his Adversaries; and if they did seeke his life, he would willingly bequeath it to them Then men of credible fidelity, and of good reputation did testifie many things against him, which his consci<g ref="char:EOLhyphen"/>ence convicting him of, he could not deny; where<g ref="char:EOLhyphen"/>upon he was according to the Law of the Realme condemned.</p>
+            <p>The second man that appeared, was one <hi>Winefall,</hi> who was accused by many sufficient witnesses, but especially by one <hi>Carpenter</hi> (who sometimes was a Jesuite, but by Gods divine grace is now converted to our <hi>Protestant Religion</hi>) who had the tuition of foure of the said <hi>Winefals Children,</hi> and brought them up in the Iesuiticall opinions: till at length there was some difference between them, and <hi>Car<g ref="char:EOLhyphen"/>penter</hi> told him that he would no longer continue a Iesuit, but become a Protestant: whereupon <hi>Wine<g ref="char:EOLhyphen"/>fall</hi> did much dehort him, and would have sent both the said <hi>Carpenter,</hi> and his foure Sons to <hi>Rome,</hi> if he had not fled for it. And he related the whole story of his Iesuiticall practises, which would be too long for me to relate: and hereupon by the generall ver<g ref="char:EOLhyphen"/>dict of the Iudges he was condemned.</p>
+            <p>The third man, that was called, was one <hi>Cannon,</hi> who was accused of many blasphemous words that he did speake, <hi>both against our Government, and like<g ref="char:EOLhyphen"/>wise against our religion:</hi> for the former, he said it was dependent on the <hi>Popes Primacie,</hi> and for the
+<pb facs="tcp:111389:3"/> second, that it was meerely repugnant to the sacred Scripture, and Apostolicall institution: so that by conclusion in his opinion our government was ille<g ref="char:EOLhyphen"/>gall, and unlawfull, and our religion opposite to the sincere exposition of Gods word. But he being so resolute, and as it were obstinate in the maintai<g ref="char:EOLhyphen"/>nance of his erroneous conceit, was condemned in<g ref="char:EOLhyphen"/>continently.</p>
+            <p>The fourth was one <hi>Willford,</hi> who was accused of high Treason for denying the Kings Prerog<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tive, and that he was deposed by the Pope, and would not take the <hi>Oath of Allegeance</hi> and many like tre<g ref="char:EOLhyphen"/>cherous speeches against our King. But I hope God will inviolably preserve this Royall Crowne, and propagate it to our flourishing posterity, when wee shall see all such Traytors hang'd. For it is unexpe<g ref="char:EOLhyphen"/>dient that those should enjoy the benefit of peace, who will wish no peace to <hi>Syon:</hi> but wee trust in Gods divine providence, that peace shall reign with<g ref="char:EOLhyphen"/>in our walls, when nothing but wars, trecherously undertaken by them, shall one day fall on their own heads.</p>
+            <p>Yet least <hi>I</hi> should seeme to digresse from my subject, I will more particularly proceed in my for<g ref="char:EOLhyphen"/>mer course. Their Honours conceiving the full scope of his protervity, did in some manner pause a while, to conceive what death they should put him unto, answerable to his demerits: but at length it was concluded on, that he should dye with the other Confederates of his owne opinion.</p>
+            <pb facs="tcp:111389:4"/>
+            <p>Fiftly, one <hi>Ragmore</hi> was brought before the bar, &amp; very eagerly accused for seducing the Kings sub<g ref="char:EOLhyphen"/>jects to <hi>Rome,</hi> and it was proved that he had won by his private suggestions, and sophisticall allurements above 30. protestants to the Court of <hi>Rome:</hi> besides many other young students in both Vniversities Then immediatly he was condemned, and commit<g ref="char:EOLhyphen"/>ted under strong custody for his facinorous treche<g ref="char:EOLhyphen"/>rie.</p>
+            <p>Sixtly, they nominated one <hi>Coleman,</hi> who was ac<g ref="char:EOLhyphen"/>cused for speaking against our sacramentall admini<g ref="char:EOLhyphen"/>stration, and that he affirmed, that hee could prove, the masse to be of more eficary, and withall that he would labor to the uttermost of his power to bring as many Protestants to the masse, as he could. For his Argument was this▪ that the masse was diducted out of <hi>divine institution,</hi> and from the astipulation of the Apostles. But this we know is a fabulous tale for the Apostles, and men immediatly succeeding the Apostolicall men did embrace the sacraments, which are now administred in the <hi>Church of England.</hi> Whereupon having likewise many other things in<g ref="char:EOLhyphen"/>dited against him, he was then with the other con<g ref="char:EOLhyphen"/>demned.</p>
+            <p>Seventhly, there was one <hi>Rivers</hi> impeached, and had a strong accusation cast upon him by sufficient witnesses, that he had denyed the Kings prerogative, and did daily study with his full diligence, and se<g ref="char:EOLhyphen"/>dulity to seduce many of his Majesties Subjects to <hi>Rome,</hi> and being demanded before the Court his rea<g ref="char:EOLhyphen"/>son for it; he answered: that our <hi>English-men</hi> of our Protestant religion in <hi>France, Spaine, Suevia, Mus<g ref="char:EOLhyphen"/>covia,</hi>
+               <pb facs="tcp:111389:4"/> &amp;c. doe with all diligence labour to bring them to the acknowledgment of their religion▪ and therefore he would but doe the like unto us, and de<g ref="char:EOLhyphen"/>sired their honors to consider of it: since our coun<g ref="char:EOLhyphen"/>trymen are permitted to converse with other Nati<g ref="char:EOLhyphen"/>on, and of a different religion too: that they would be pleased to suffer them likewise to continue a<g ref="char:EOLhyphen"/>mong us with intention onely to bring them by perswasion unto that, which we deem to be truth of the Gospell. The reply was incontinently made that it was not for their religion, that they prosecuted them with the severity of Iustice, but only for their treacheries, conspiracies, and treasons, Therefore without any more <hi>argumentation, or intermission of time,</hi> he was likewise with his fellovv conspirators condemned to make their number. For as their of<g ref="char:EOLhyphen"/>fence and crime vvas one, so ought their punishment to be one.</p>
+            <p>Thus, Reader, you have read their treacheries, and by this you may consequently conceive their irre<g ref="char:EOLhyphen"/>quiate Machinations, which they daily conspire a<g ref="char:EOLhyphen"/>gainst this Kingdome. But I hope their vvhvle crew vvill come to the like end: for questionlesse, hee that set them on vvork (I meane the Divell) vvill one day pay them their vvages,</p>
+            <p>Therefore let us pray God to confirme oer harts in loyalty to the <hi>King, and Country, and strengthen our minds with the sincere purity of his word and Go<g ref="char:EOLhyphen"/>spell, to the confus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of the whore of Babylon, and the utter erudication of all such Jesuiticall, and Romish Priests,</hi> the truth of Christians may prosperously flourish in the hearts of all his Majesties subjects.
+<pb facs="tcp:111389:5"/> subjects▪ But as the body naturall is never sound, vvhereas it hath a wound,, and can never be secure untill that be purged, and cured. Even so in this body politicke, as long as these Iesuites, and the like of that faction remaine, as exul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erated sores among us, we cannot be sound, neither can we ever sleepe in security, untill these contaminated wounds (I may well call them so, for they wound our religion) bee fully purged, and expelled from us. Therefore vvee doubt not, but the <hi>Parliament</hi> will take these things to their judicious consideration, and vvee hope vvee shall find sudden redresse from▪ them in the esta<g ref="char:EOLhyphen"/>blishment, and ratification of true religion, and in the perpetuall banishment of such Miscreants.</p>
+            <p>Thus they are all condemn'd to be hangd, dravvne and quartered, and shall have their sudden Executi<g ref="char:EOLhyphen"/>on speedily, we hope, as they have deserved.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
